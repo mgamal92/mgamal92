@@ -5,7 +5,6 @@
 - Coffee Lover
 - code.every(day);
 - 127.0.0.1 is my home
-- Love to automate the routine tasks!
 
 # Find me around the web 
 - [WhatsApp](http://wa.me/+201014300694)
