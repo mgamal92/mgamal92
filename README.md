@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**mgamal92/mgamal92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Backend Developer with over five years experience working on PHP web applications with different tens of clients and teams from multiple countries. Developing APIs, packages and designing databases. Also I enjoy contributing to open source projects in my spare time.
+_Recently_ I'm managing a small team of developers to refactoring old PHP code to modern Laravel application.
 
-Here are some ideas to get you started:
+## Open Source
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I’m currently working on this package [Laravel Paymob](https://github.com/mgamal92/paymob-laravel)
+
+
+## My Contacts
+
+- <a href='mailto:mg.dev1992@gmail.com'>mg.dev1992@gmail.com</a>
+- [Linkedin Profile](https://www.linkedin.com/in/mgamal92/)
