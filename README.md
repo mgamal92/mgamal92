@@ -8,7 +8,7 @@ _Recently_ I'm managing a small team of developers to refactor old PHP code to m
 - I’m currently working on this package [Laravel Paymob](https://github.com/mgamal92/paymob-laravel)
 
 
-## My Contacts
+## Let's talk :)
 
 - <a href='mailto:mg.dev1992@gmail.com'>mg.dev1992@gmail.com</a>
 - [Linkedin Profile](https://www.linkedin.com/in/mgamal92/)
