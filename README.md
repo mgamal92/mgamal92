@@ -10,5 +10,5 @@ _Recently_ I'm managing a small team of developers to refactor old PHP code to m
 
 ## Let's talk :)
 
-- <a href='mailto:mg.dev1992@gmail.com'>mg.dev1992@gmail.com</a>
+- <a href='mailto:mg.dev1992@icloud.com'>mg.dev1992@icloud.com</a>
 - [Linkedin Profile](https://www.linkedin.com/in/mgamal92/)
