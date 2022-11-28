@@ -10,6 +10,10 @@ _Recently_ I'm managing a small team of developers to refactor old PHP code to m
  
 #### ☁️ My Contributions
 - https://github.com/symfony/symfony/pull/35236
+- https://github.com/symfony/symfony/pull/35234
+- https://github.com/laravel/docs/pull/4768
+- https://github.com/laravel/docs/pull/4722
+- https://github.com/spatie/async/pull/3
 
 #### 💬 Let's talk
 
