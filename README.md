@@ -6,7 +6,7 @@ _Recently_ I'm managing a small team of developers to refactor old PHP code to m
 #### 🖥️ My Latest Open Source Works
 
 - I’m currently working on [Siklid](https://github.com/piscibus/siklid-api)
-- I’ve released v1.0 from [Paymob Laravel](https://github.com/mgamal92/paymob-laravel)
+- I’ve released v1.0 from [Paymob Laravel](https://github.com/mgamal92/paymob-laravel) and the release v2.0 will be released soon!
  
 #### ☁️ My Contributions
 - https://github.com/symfony/symfony/pull/35236
