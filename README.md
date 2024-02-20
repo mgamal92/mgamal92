@@ -4,11 +4,6 @@
 
 I'm a backend developer with over seven years experience, working on PHP web applications with different tens of clients and teams from all over the world. My main responsiblities are developing APIs, packages and designing databases. Also I'm enjoying contributing to open source projects to learn new skills, make a relationships with other developers and to have fun.
 _Recently_ I've managed a small team of developers to refactor old PHP code to modern Laravel application.
-
-#### 🖥️ My Latest Open Source Works
-
-- I’m currently working on [moyasar-laravel](https://github.com/mgamal92/moyasar-laravel)
-- I’ve released v1.0 from [paymob-laravel](https://github.com/mgamal92/paymob-laravel) and the release v2.0 will be released soon!
  
 #### ☁️ My Contributions
 - https://github.com/symfony/symfony/pull/35236
