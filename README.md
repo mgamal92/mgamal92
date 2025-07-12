@@ -2,17 +2,21 @@
 
 ![Profile Visits](https://komarev.com/ghpvc/?username=mgamal92) 
 
-I'm a backend developer with over seven years experience, working on PHP web applications with different tens of clients and teams from all over the world. My main responsiblities are developing APIs, packages and designing databases. Also I'm enjoying contributing to open source projects to learn new skills, make a relationships with other developers and to have fun.
-_Recently_ I've managed a small team of developers to refactor old PHP code to modern Laravel application.
- 
-#### ☁️ My Contributions
-- https://github.com/symfony/symfony/pull/35236
-- https://github.com/symfony/symfony/pull/35234
-- https://github.com/laravel/docs/pull/4768
-- https://github.com/laravel/docs/pull/4722
-- https://github.com/spatie/async/pull/3
+I design and build backend systems that don’t fall apart when things get real.
+Laravel and PHP are my tools of choice — clean code, modular architecture, and performance are non-negotiables.
 
-#### 💬 Let's talk
+Over the years, I’ve worked with teams across different time zones, legacy codebases, and business domains. My focus areas include backend development, API design, database architecture, and **building powerful, user-friendly dashboards** using tools like Filament and Nova. I contribute to open source when I come across a challenge worth solving or a tool worth sharing.
+
+### 🛠 Tech Stack
+
+- **Languages & Frameworks:** PHP • Laravel • Blade • Livewire  
+- **Dashboards & Admin Panels:** Filament • Laravel Nova • Custom Admin UIs  
+- **Database & Caching:** MySQL • Redis  
+- **Tools & Platforms:** Git • Docker • Laravel Forge  
+- **Testing & Debugging:** PHPUnit • Laravel Telescope • Sentry  
+- **Other:** REST APIs • Webhooks • Queue Workers • Multi-tenancy
+
+#### 💬 Let's connect
 
 - <a href='mailto:mg.dev1992@icloud.com'>mg.dev1992@icloud.com</a>
 - [Linkedin Profile](https://www.linkedin.com/in/mgamal92/)
